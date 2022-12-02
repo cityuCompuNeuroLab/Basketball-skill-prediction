@@ -41,7 +41,7 @@ In the IMU dataset, there are 888 shootings digit images for training and 223 fo
 
 ## CNN structure in the demo
 
-<img src="fig/CNNmodel.jpg" width="600">
+<img src="Basketballmain/fig/CNNmodel.jpg" width="600">
 
 <a name="Run">
 
