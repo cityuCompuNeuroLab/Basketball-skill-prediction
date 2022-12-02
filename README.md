@@ -28,7 +28,7 @@ Detailes of the CNN strucdure is in the demo.
 
 ## Preprocess flowchart
 The raw time-series data will be processed before inputting to CNN model.
-<img src="fig/flowchart.jpg" width="600">
+<img src="Basketball-main/fig/flowchart.jpg" width="600">
 
 
 <a name="IMUdataset">
@@ -41,7 +41,7 @@ In the IMU dataset, there are 888 shootings digit images for training and 223 fo
 
 ## CNN structure in the demo
 
-<img src="Basketballmain/fig/CNNmodel.jpg" width="600">
+<img src="Basketball-main/fig/CNNmodel.jpg" width="600">
 
 <a name="Run">
 
@@ -70,7 +70,7 @@ Running the demo for 200 epochs, the classification accuracy of inputs (AxAzGy) 
 
 ### Training and testing accuracy vs. epoch
 
-<img src="fig/accuracy.jpg" width="400">
+<img src="Basketball-main/fig/accuracy.jpg" width="400">
 
 <!-- <a name="Error">
 
